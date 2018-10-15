@@ -1,6 +1,9 @@
 # Hacktoberfest
-Pessoas que contribuiram para o Hacktoberfest da estácio:
+Projeto para o Hacktoberfest da Estácio Ribeirão Preto
 
-#Contribuidores:
-(Nome - Data)
-Felipe Cabrera - 15/10/2018
+# Contribuidores:
+	Basta acrescentar os créditos no arquivo Contribuidores.md  
+		Formato:   
+			Nome - Data    
+		Ex:    
+			Felipe Cabrera - 16/10/2018  
