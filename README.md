@@ -5,6 +5,6 @@ Projeto para o Hacktoberfest da Estácio Ribeirão Preto
 # Contribuidores:
 	Basta acrescentar os créditos no arquivo Contribuidores.md  
 		Formato:   
-			- Nome Do Contribuidor - Data da Contribuição    
-		Ex:    
-			- Felipe Cabrera - 16/10/2018  
+			- Nome Do Contribuidor - Pais - Data da Contribuição    
+		Ex:
+			- Felipe Cabrera - Brazil - 16/10/2018
