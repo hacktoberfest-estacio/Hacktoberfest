@@ -2,3 +2,4 @@
 - Felipe Cabrera - Brazil - 15/10/2018
 - Øyvind Eikeland - Norway - 15/10/2018
 - Guilherme Haynes Howe - Brazil - 16/10/2018
+- Leonardo Brito Bittencourt - Brazil - 16/10/2018
