@@ -4,4 +4,4 @@
 - Guilherme Haynes Howe - Brazil - 16/10/2018
 - Guilherme Chenci Ortiz - Brazil - 16/09/2018
 - Leonardo Brito Bittencourt - Brazil - 16/10/2018
-- Ana Clara A. Mioto - Brazil - 10/10/2019
+- Ana Clara de Andrade Mioto - Brazil - 10/10/2019
