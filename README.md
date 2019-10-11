@@ -17,5 +17,12 @@ Para contribuir e muito simples e basta seguir os seguintes passos:
 		Ex:
 			- Felipe Cabrera - Brazil - 16/10/2018 - https://github.com/fcrdossantos
 
-4 - Apos colocar seu nome no arquivo rode o comando para atualizar as modificacoes => git add -A  
-5 - Crie um comentario da sua atualizacao do arquivo com o comando => git commit
+4 - Apos colocar seu nome no arquivo rode o comando para atualizar as modificacoes => git add . -A    
+
+5 - Crie um comentario da sua atualizacao do arquivo com o comando => git commit -m "Adcionando meu nome aos contruidores.md"    
+
+6 - git push -u origin master
+
+7 - Pronto seu pull request foi feito e sera adicionado seu nome a lista de contribuidores.
+> Vamos dar merge em todos pull requests feitos
+> pode fazer via grafico no site utilizando o slide do Felippe que esta anexado no repositorio
